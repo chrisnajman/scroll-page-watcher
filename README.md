@@ -35,6 +35,10 @@ If your browser supports `animation-timeline: scroll()` CSS, a horizontal line w
 
 This CSS code snippet includes the use of `@media` queries to target devices that prefer no-reduced motion and `@supports` to check if the browser supports the `animation-timeline: scroll()` property. If supported, it triggers the animation for the `.scroll-watcher` class.
 
+## WAVE Web Accessibility Evaluation Tools Report
+
+- [Automated accessibility analysis results](https://wave.webaim.org/report#/https://chrisnajman.github.io/scroll-page-watcher/)
+
 ## Testing
 
 Tested on Windows 10 with:
